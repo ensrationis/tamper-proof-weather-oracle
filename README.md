@@ -31,7 +31,7 @@ Re-running the trigger rule across April 14–22, 2026:
 | Storm 1 | 14–16 Apr | 0 | 7 |
 | Storm 2 | 17–19 Apr | 6 (all 18 Apr) | **14 (74% of pool)** |
 
-A live prediction market resolving on this oracle: *Will the Robonomics-powered citizen sensor mesh detect another dust storm over Cyprus in the next 14 days?* — **[Manifold link — TBD]**
+A live prediction market resolving on this oracle: *Will the Robonomics-powered citizen sensor mesh detect another dust storm over Cyprus in the next 14 days?* — **[Manifold market](https://manifold.markets/SergeiLonshakov/will-the-robonomicspowered-citizen)**
 
 ## Reproduce the chart
 
