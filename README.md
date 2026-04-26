@@ -33,6 +33,10 @@ Re-running the trigger rule across April 14–22, 2026:
 
 A live prediction market resolving on this oracle: *Will the Robonomics-powered citizen sensor mesh detect another dust storm over Cyprus in the next 14 days?* — **[Manifold market](https://manifold.markets/SergeiLonshakov/will-the-robonomicspowered-citizen)**
 
+### Status updates
+
+- **[2026-04-26 — day 3 of 14](updates/2026-04-26.md)** — 21 sensors active, 0 triggered hours, peak simultaneous = 2. Network calm.
+
 ## Reproduce the chart
 
 The script that produced `chart.png` is in [`scripts/chart_oracle_proof.py`](scripts/chart_oracle_proof.py). It currently reads from the sensors.social MongoDB on the Robonomics collator (`84.32.186.165`) over SSH; a public read-only API is on the roadmap (see spec).
