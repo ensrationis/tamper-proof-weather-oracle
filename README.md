@@ -35,6 +35,7 @@ A live prediction market resolving on this oracle: *Will the Robonomics-powered 
 
 ### Status updates
 
+- **[2026-05-05 — day 12 of 14](updates/2026-05-05.md)** — 23 sensors active, 0 triggered hours, peak simultaneous = 2. Strong wind/rain washout overnight 3→4 May (anti-dust event). CAMS predicts 0 dust hours through close. ~2 days remaining.
 - **[2026-05-02 — day 9 of 14](updates/2026-05-02.md)** — 22 sensors active, 0 triggered hours, peak simultaneous = 2. Network calm. 5 days remaining.
 - **[2026-04-26 — day 3 of 14](updates/2026-04-26.md)** — 21 sensors active, 0 triggered hours, peak simultaneous = 2. Network calm.
 
